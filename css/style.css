@@ -223,7 +223,7 @@ Header Design
     left: 0;
     width: 100%;
     background-color: var(--white-color);
-    box-shadow: 0 0.125rem 1.75rem 0 rgb(0, 0, 0, 0.9);
+    box-shadow: 0 0.125rem 1.75rem 0 rgb(0, 0, 0, 0.09);
     transition: all .15s ease-in-out 0s;
 }
 
@@ -239,4 +239,21 @@ Top Banner Design
     background: url('../image/bg/bg-1.jpg') no-repeat center;
     background-size: cover;
     padding: 16.875rem 0 9.375rem;
+}
+
+
+/* ===============================================
+
+Counter Design
+
+=============================================== */
+
+.counter-section {
+    background-color: var(--primary-color);
+    padding: 2.5rem 0;
+}
+
+.counter-section p {
+    color: var(--white-color);
+    text-transform: uppercase;
 }
