@@ -331,7 +331,7 @@ Explore Food   section Design
 =============================================== */
 
 .explore-food .card {
-    border: non;
+    border: none;
     background-color: transparent;
     border-radius: 0.9375rem;
 }
