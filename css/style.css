@@ -402,3 +402,16 @@ Testimonial Design
 .testimonial-section .carousel-indicators button.active {
     opacity: 1;
 }
+
+
+/* ===============================================
+
+FAQ Design
+
+=============================================== */
+
+.faq h4 span {
+    color: var(--primary-color);
+    font-size: 1.875rem;
+    margin-right: 0.3125rem;
+}
